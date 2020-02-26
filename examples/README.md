@@ -2,6 +2,7 @@
 
 + celleditors
 + colormap
++ dataloader
 + dragandmove
 + flateditor
 + layereditor
